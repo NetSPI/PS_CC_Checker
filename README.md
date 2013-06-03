@@ -29,9 +29,7 @@ Requirements:
 To Add:
 	- Card type detection (VISA, MC, Diners, etc.)
 		-Overall Length, middle digits needed to brute force (based off of card type, currently done manually with ?s)
-
 	- More hashing algorithms
-		
 	- Add Salt options
 
 	
