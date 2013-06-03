@@ -26,11 +26,6 @@ Requirements:
 				-If you are using this use case, then change the file name on line 349
 	-Also Powershell, but that should be obvious
 
-To Add:
-	- Card type detection (VISA, MC, Diners, etc.)
-		-Overall Length, middle digits needed to brute force (based off of card type, currently done manually with ?s)
-	- More hashing algorithms
-	- Add Salt options
 
 	
 	
