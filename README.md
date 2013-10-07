@@ -33,3 +33,4 @@ Requirements:
 # Written by Karl Fosaaen #
 #	Twitter: @kfosaaen 	  #
 #						  #
+# Blog - https://www.netspi.com/blog/entryid/182/cracking-credit-card-hashes-with-powershell
